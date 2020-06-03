@@ -78,7 +78,7 @@ public:
 	/**** Find if the user-inputed number is a leap year ****/
 	void basicLeapYear()
 	{
-		int	x;
+		int x;
 
 		cout << "**BasicLeapYear()**" << endl;
 
@@ -107,7 +107,7 @@ public:
 	/**** Find the absolute value of the user-inputed number (could be of any type) ****/
 	void basicAbsoluteValue()
 	{
-		int	x;
+		int x;
 
 		cout << "**BasicAbsoluteValue()**" << endl;
 
